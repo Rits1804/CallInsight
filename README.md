@@ -4,9 +4,9 @@ This project is designed to transcribe call recordings and generate detailed sum
 ## Features
 
 - Transcribe Hindi call recordings using AWS Transcribe.
-- 
+  
 - Generate comprehensive summaries and insights from the transcribed text using Google's Gemini Pro model.
-- 
+  
 - Save the generated content to a text file.
 
 ## Requirements
